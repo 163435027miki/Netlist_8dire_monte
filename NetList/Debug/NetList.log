@@ -1,0 +1,59 @@
+﻿2018/03/05 11:13:09 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\05.プログラム\NetList_8dire_mon_17-0123\NetList\NetList.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\NetList.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Nrutil.cpp spice2.cpp
+         spice2.cpp
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(165): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : 'localtime' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(184): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 'strcat' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(186): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 'strcat' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(774): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(1199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(1201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(1226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(1227): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\spice2.cpp(139): warning C4101: 'math_name4_s' : ローカル変数は 1 度も使われていません。
+         Nrutil.cpp
+         コードを生成中...
+     1>d:\05.プログラム\netlist_8dire_mon_17-0123\netlist\nrutil.cpp(110): warning C4700: 初期化されていないローカル変数 'i' が使用されます
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\NetList.exe.embed.manifest.res" Debug\NetList_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\05.プログラム\NetList_8dire_mon_17-0123\Debug\NetList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\NetList.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\05.プログラム\NetList_8dire_mon_17-0123\Debug\NetList.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\05.プログラム\NetList_8dire_mon_17-0123\Debug\NetList.lib" /MACHINE:X86 Debug\NetList.exe.embed.manifest.res
+         Debug\Nrutil.obj
+         Debug\spice2.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\NetList.exe.embed.manifest" /manifest Debug\NetList.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         NetList.vcxproj -> D:\05.プログラム\NetList_8dire_mon_17-0123\Debug\NetList.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\NetList.unsuccessfulbuild" を削除しています。
+         "Debug\NetList.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "D:\05.プログラム\NetList_8dire_mon_17-0123\NetList\NetList.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.90
